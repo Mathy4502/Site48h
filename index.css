@@ -1,0 +1,21 @@
+body {
+    color:black;
+    background-color:white;
+    background-image:url(../Images/bibltest.jpg);
+    margin:0;
+}
+
+.text_{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#divcenter{
+    margin-top: 9%;
+}
+
+t1 {
+    color: white;
+    font-size: 500%;
+    margin-left: 32%;
+    margin-right: 32%;
+}
