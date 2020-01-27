@@ -18,8 +18,12 @@ t3 {
     margin: 5%;
 }
 
+.textpres{
+    font-size: 190%;
+}
+
 #divtitle{
-    margin-bottom: 20%;
+    margin-bottom: 26%;
 }
 
 .text_{
@@ -30,4 +34,8 @@ t3 {
 #inftext{
     color: black;
     background-color: rgba(255, 255, 255, 0.1);
+}
+
+#divinfsdp{
+    margin-top: 20%;
 }
