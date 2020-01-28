@@ -45,6 +45,11 @@ body {
   width: min-content;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
 /* FOOTER STYLE */
 
 .footer {
