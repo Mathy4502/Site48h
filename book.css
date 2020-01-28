@@ -1,0 +1,18 @@
+body {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.head div {
+    margin: 30px;
+}
+
+.text {
+    color: black;
+    background-color: white;
+    margin: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    border: 2px solid #424242;
+}
+
