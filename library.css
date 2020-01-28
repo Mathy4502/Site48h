@@ -3,21 +3,27 @@
     bottom:0;
 } */
 body {
-    padding-top: 80px;
+  padding-top: 80px;
 }
-.section{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+.section {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .title {
-    margin: 20px;
-    font-size: 2.5em;
-    text-align: center;
+  margin: 20px;
+  font-size: 2.5em;
+  text-align: center;
 }
 
 .book {
-    background-color: red;
-    margin: 10px;
+  background-color: red;
+  margin: 10px;
+  background-image: url("images/belami.jpg");
+  background-repeat: no-repeat;
+  background-size: 200px 250px;
+  border-radius: 10px;
+  border: 2px solid #424242;
 }
