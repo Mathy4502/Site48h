@@ -1,0 +1,17 @@
+body {
+    color:black;
+    background-color:white;
+    background-image:url(./Images/biblt2.jpg);
+    padding-top: 10%;
+    width: 82%;
+    margin: auto;
+}
+
+#title{
+    text-align: center;
+}
+
+.imgcover{
+    width: 12%;
+    height: auto;
+}
