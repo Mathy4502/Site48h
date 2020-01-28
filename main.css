@@ -17,13 +17,6 @@
     width: 300px;
   }
 
-  .navbar .menu .button {
-    background-color: black;
-    border-radius: 10px;
-    padding: 10px;
-    border: 2px solid #424242;
-  }
-
 /* BODY STYLE */
 
 body {
@@ -41,6 +34,15 @@ body {
 .card {
   width: 150px;
   height: 200px;
+}
+
+.button {
+  background-color: black;
+  border-radius: 10px;
+  padding: 10px;
+  border: 2px solid #424242;
+  text-align: center;
+  width: min-content;
 }
 
 /* FOOTER STYLE */
