@@ -1,3 +1,17 @@
+body {
+    width: 82%;
+    color:black;
+    background-color:black;
+    margin: auto;
+    text-align: center;
+    padding-top: 10%;
+}
+
+footer {
+    margin-top: 10%;
+    text-align: right;
+}
+
 t1 {
     font-size: 500%;
     margin: 5%;
@@ -6,6 +20,7 @@ t1 {
 t3 {
     font-size: 380%;
     margin: 5%;
+    color: rgb(200, 200, 200);
 }
 
 .textpres{
@@ -13,19 +28,13 @@ t3 {
 }
 
 #divtitle{
-    margin-bottom: 26%;
+    margin-bottom: 20%;
 }
 
 .text_{
     color: white;
-    background-color: rgba(0, 0, 0, 0.1);
 }
 
-#inftext{
-    color: black;
-    background-color: rgba(255, 255, 255, 0.08);
-}
-
-#divinfsdp{
-    margin-top: 20%;
+.divtextbook{
+    margin-top: 10%;
 }

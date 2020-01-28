@@ -1,10 +1,28 @@
 body {
     color:black;
-    background-color:white;
-    background-image:url(./Images/biblt2.jpg);
+    background-color:black;
     padding-top: 10%;
+    padding-bottom: 10%;
     width: 82%;
     margin: auto;
+}
+
+footer {
+    margin-top: 10%;
+    color: white;
+    text-align: right;
+}
+
+t1 {
+    font-size: 500%;
+    margin: 5%;
+    color: white;
+}
+
+t3 {
+    font-size: 380%;
+    margin: 5%;
+    color: rgb(200, 200, 200);
 }
 
 #title{
@@ -14,4 +32,14 @@ body {
 .imgcover{
     width: 12%;
     height: auto;
+    border-radius: 10%;
+    box-shadow : -10px -5px 5px rgba(255, 255, 255, 0.8);
+}
+
+#divtitle{
+    margin-bottom: 26%;
+}
+
+#divinfsdp{
+    margin-top: 20%;
 }
