@@ -1,0 +1,10 @@
+body {
+    width: 82%;
+    color:black;
+    background-color:white;
+    background-image:url(../Images/biblt3.jpg);
+    margin: auto;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
